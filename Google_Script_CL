@@ -1,0 +1,7 @@
+function doPost(data) {
+
+var jsonData = JSON.parse(data.postData.contents);
+
+  var sheet = SpreadsheetApp.getActiveSheet();
+  sheet.appendRow([jsonData.date,jsonData.time,jsonData.type,jsonData.location,jsonData.latitude,jsonData.longitude,jsonData.apple_map_url,jsonData.google_map_url]);
+}
