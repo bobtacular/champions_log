@@ -770,6 +770,17 @@
           34.0301907484102
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.40406448333,
+          34.0302432132891
+        ]
+      }
     }
   ]
 }
