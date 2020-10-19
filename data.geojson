@@ -2288,6 +2288,28 @@
           42.0620780999347
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9151872340775,
+          42.0619750569842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.915175259381,
+          42.0619824175199
+        ]
+      }
     }
   ]
 }
